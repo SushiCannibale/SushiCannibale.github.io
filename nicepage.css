@@ -17125,6 +17125,19 @@ p {
 .u-font-georgia.u-custom-font {
   font-family: Georgia, serif !important;
 }
+
+@font-face {
+    font-family: 'pixelart';
+    src: url('https://sushicannibale.github.io/fonts/early_gameboy-webfont.woff2') format('woff2'),
+    url('https://sushicannibale.github.io/fonts/early_gameboy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.u-font-pixelart {
+    font-family: 'pixelart';
+}
+
 .u-font-roboto.u-custom-font {
   font-family: Roboto, sans-serif !important;
 }
